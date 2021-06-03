@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Appeal from the Chancery of Ireland. Robert Mason, Gent. Appellant. Thomas Nugent, commonly called, Earl of Westmeath, Respondent. The Respondents case.</title>
+            <author>Westmeath, Thomas Nugent, Earl of, d. 1752.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17198</idno><idno type="EEBO-CITATION">99886780</idno>
+  <idno type="VID">189432</idno>
+  <idno type="EEBO-PROQUEST">2248538583</idno>
+  
+            <idno type="STC">Wing A3564B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[9]</idno>
+            <idno type="PROQUEST">ocm99886780</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886780e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17198)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189432)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Appeal from the Chancery of Ireland. Robert Mason, Gent. Appellant. Thomas Nugent, commonly called, Earl of Westmeath, Respondent. The Respondents case.</title>
+                  <author>Westmeath, Thomas Nugent, Earl of, d. 1752.</author>
+                  <author>Mason, Robert, Gent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Thomas Nugent, ... Respondent." are connected by a left bracket in the title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Estates (Law) --  England --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:189432:1"/>
+            <head>APPEAL from the Chancery of <hi>IRELAND.</hi>
+               <list>
+                  <item>
+                     <hi>Robert Mason,</hi> Gent. Appellant.</item>
+                  <item>
+                     <hi>Thomas Nugent,</hi> commonly called, Earl of <hi>Westmeath,</hi> Respondent.</item>
+               </list>
+            </head>
+            <head>The Respondents CASE.</head>
+            <div type="part">
+               <p>THAT <hi>Richard</hi> Earl of <hi>Westmeath,</hi> (the Respondents Grandfather) in 1682. Borrowed 1500 <hi>l.</hi> of Sir <hi>John Parker,</hi> at 10 <hi>l. per Cent.</hi> on Security of the Lands of <hi>Clonine, &amp;c.</hi> in <hi>Westmeath,</hi> (the Antient Seat of the Family) Lett in 1685. at 110 <hi>l.</hi> a year, clear of all Re<g ref="char:EOLhyphen"/>prizes, and on Security of Lands in the County of <hi>Roscommon,</hi> Lett at the time of the Mortgage to <hi>Nicholas Mahon</hi> Esq; at 210 <hi>l.</hi> a year, clear also of Reprizes.</p>
+               <p>That the Interest was paid to <hi>November</hi> 1688. when the Revolution happened.</p>
+               <p>That after His Majesty's Victory at the <hi>Boyne,</hi> Sir <hi>John</hi> entred on the <hi>Westmeath</hi> Estate, and after <hi>Athlone</hi> was taken, on the <hi>Roscommon</hi> Estate, and Lett it at a small Rent, tho' <hi>Mahon</hi>'s Lease was in being, and he, or those deriving under him, well able to hold the same.</p>
+               <p>That after <hi>Limerick</hi> was Reduced, (the Respondent being within the Articles) applied to Sir <hi>John Parker</hi> for time for the Payment of his Money, it being impossible at that Juncture to get any, and that the Estate in the mean time might be Let to the best Advantage.</p>
+               <p>
+                  <note place="margin">Michaelmas Term 1691.</note> But Sir <hi>John</hi> did in <hi>Michaelmas</hi> Term 1691. Exhibit a Bill in <hi>Chancery</hi> against the Respondent to Foreclose him, and Sir <hi>John Parker</hi>'s Debt, Interest and Costs was settled and increased from 1500 <hi>l.</hi> to 1945 <hi>l.</hi> 13 <hi>s.</hi> 7 <hi>d.</hi> ½ <hi>q.</hi> notwithstanding he was in Possession of the whole Estate, which was of more then double the Value of the Interest.</p>
+               <p>
+                  <note place="margin">Febr. 9. 1694.</note> The Respondent was Decreed to pay the said 1945 <hi>l.</hi> 13 <hi>s.</hi> 7 <hi>d.</hi> ½ <hi>q.</hi> on the First of <hi>Michaelmas</hi> Term following, or be Foreclosed.</p>
+               <p>But the Respondent discovering, that Sir <hi>John Parker</hi> (tho' a Mortgagee only) had settled the Premisses on his Marriage, whereby it could not be Assigned to any Person that would Lend the Money, informed the Court thereof.</p>
+               <p>
+                  <note place="margin">April 29. 1695.</note> Who thereupon Ordered Sir <hi>John</hi> should procure all Persons Interested to joyn in the Assigning and Enlarged the time for paying the Money, to <hi>Hillary</hi> Term following.</p>
+               <p>That by two Orders of the 12th and 17th of <hi>August</hi> 1695. Sir <hi>Edward Abney</hi> (the Person Interested as Sir <hi>John</hi> Alledged) was Ordered to Assign to Mr. <hi>Warburton</hi> and Mr. <hi>Ludlow</hi> the two Senior Six Clerks.</p>
+               <p>
+                  <note place="margin">Feb. 11. 1695. Time Enlarg'd to March 25. 1696.</note> Upon Application to the Court by the Respondent for further time, and Sir <hi>Thomas Packenham</hi> a Gentleman of a good Estate then present, offering to take a Lease of the Mortgaged Estate at 300 <hi>l.</hi> a year; It was Ordered at the Desire of Sir <hi>John Parker</hi>'s Council, that a Master in <hi>Chan<g ref="char:EOLhyphen"/>cery</hi> should receive Proposals to Sell the Estate to the best Bidder, and the Overplus of the Purchase Money to be paid to the Respondent, but the time to Redeem was Enlarged only to the 25th of <hi>March</hi> following.</p>
+               <p>
+                  <note place="margin">April 3. 1696.</note> But the Appellant in the Name of Sir <hi>John Parker,</hi> without mentioning the Order of the 11th of <hi>February,</hi> and without Notice to the Respon<g ref="char:EOLhyphen"/>dent, did on the 3d of <hi>April,</hi> by Retition to the Lord Chancellor, Alledge that the Money was not paid the 25th of <hi>March</hi> before, whereby Sir <hi>John</hi>'s Estate became absolute, and that the said Estate was in the two Six Clerks by Sir <hi>Edward Abney</hi>'s Assignment, and that he had Agreed for the Purchase of the Estate with the Appellant, and therefore prayed that the Six Clerks might Assign to him, which was Ordered.</p>
+               <p>
+                  <note place="margin">April 2, 3. 1696.</note> And they by Lease and Release, the 2d and 3d of the same <hi>April,</hi> in Consideration of 1945 <hi>l.</hi> 13 <hi>s.</hi> 7 <hi>d.</hi> ½ <hi>q.</hi> pretended then to be paid by the Appellant to Sir <hi>John</hi> for Principal, Interest and Costs, Conveyed the Premisses to the Appellant and his Heirs.</p>
+               <p>
+                  <note place="margin">May 9. 1696.</note> The Respondent knowing nothing thereof, and having provided the Money on the 9th of <hi>May</hi> following, moved the Lord Chancellor in open Court, that Sir <hi>John Parker</hi> might receive his Money, but the Appellants Council (to the Respondents great surprize) informed the Court, that Sir <hi>John</hi> and the Six Clerks had Conveyed the Premisses to the Appellant.</p>
+               <p>
+                  <note place="margin">July 9. 1696.</note> Then the Respondent Petitioned the Lord Chancellor, That the Appellant might receive his Money and Assign; But the Lord Chancellor de<g ref="char:EOLhyphen"/>clared, in regard the Appellant was no Party in Court, he could make no Order, but the Respondent might bring his Bill.</p>
+               <p>
+                  <note place="margin">Decemb. 5. 1696.</note> The Respondent Exhibited his Bill against the Appellant, praying he might discover his Title, for what Consideration, and when paid, and to Compel him to receive his Money; whereto he pleaded, <hi>That the Respondent by not finding a Purchaser, nor paying the Money on the</hi> 25th <hi>day of</hi> March 1696. <hi>was Foreclosed, and that the Decree was Signed and Inrolled, and that Sir</hi> John Parker <hi>being Seized of the Premisses of an absolute Estate of Inheritance, and having Occasion for Money proposed to Sell the same to the Appellant, and he Agreed to give him</hi> 1945 l. 13 s. 7 d. ½ q. <hi>for the Pur<g ref="char:EOLhyphen"/>chase thereof: And thereupon the Petition was preferred by Sir</hi> John, <hi>on which the Order of the</hi> 3d <hi>of</hi> April 1696. <hi>was made, and that he Relied on the said Conveyances, and that he was a Purchaser under the Decree of the Court.</hi>
+               </p>
+               <p>
+                  <note place="margin">Nov. 19. 1697.</note> The Lord Chancellor, upon Arguing the Plea, ordered the Appellant to Answer, but the Benefit of the Plea was reserved to the Hearing.</p>
+               <p>That the Respondent in <hi>January</hi> 1697. being Informed of some ill Practices of the Appellant relating to the Premisses, immediately Exhibited a Supplemental Bill for the Discovery thereof.</p>
+               <p>
+                  <note place="margin">
+                     <p>
+                        <table>
+                           <row>
+                              <cell>For News due to himself▪</cell>
+                              <cell>11</cell>
+                              <cell>15</cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>paid Mr. <hi>Jen<g ref="char:EOLhyphen"/>kins,</hi>
+                              </cell>
+                              <cell>2</cell>
+                              <cell>6</cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>To Sir <hi>Johns</hi> Order,</cell>
+                              <cell>4</cell>
+                              <cell>16</cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>More,</cell>
+                              <cell>2</cell>
+                              <cell>9</cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>More,</cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>More,</cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>More,</cell>
+                              <cell>3</cell>
+                              <cell>15</cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>More,</cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>More,</cell>
+                              <cell>
+                                 <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </cell>
+                              <cell>0</cell>
+                              <cell>0</cell>
+                           </row>
+                        </table> Besides many other small Payments.</p>
+                  </note> Whereto the Appellant Answered and Confessed, <hi>That in</hi> February 1694. <hi>he Agreed with Sir</hi> John Parker <hi>for the Purchase of the Premisses, and then paid him</hi> 500 l. <hi>in part, and secured the Rest, and thereupon by Lease and Release, dated the</hi> 18th <hi>and</hi> 19th <hi>of</hi> February 1694. <hi>Sir</hi> John <hi>Con<g ref="char:EOLhyphen"/>veyed all his Interest to him, and his Heirs; and that he then Executed a Defezance, whereby he was to Convey the Premisses to the Respondent, in Case he should pay the Money at the day appointed, being the first of</hi> Michaelmas Term, and Insisted that most part of the said 500 <hi>l.</hi> was paid in Guineas at 1 <hi>l.</hi> 3 <hi>s.</hi> And that the rest of the Money he paid Sir <hi>John</hi> is contained in the Schedule annex'd to his Answer; and thereby it appears, that 600 <hi>l.</hi> of the Purchase Money was paid after Sir <hi>John</hi>'s Death, and most of the rest is in very small Payments, And the Appellant further Insisted on the difficulty of receiving his Money now it has risen; And the Damage he should receive by the loss of his Improvements that he made on the Premisses since his Purchase.</p>
+               <p>
+                  <note place="margin">Nov. 14, 15, and 17. 1699.</note> That the Cause came on to be heard on the 14th and 15th of <hi>November</hi> 1699. and the Lord Chancellor having duly Consider'd the whole Matter, on the 17th of the same month, did Decree, That the Respondent should Redeem, paying the Appellant all the Money Decreed to the said Sir <hi>John Parker,</hi> with Interest at 10 <hi>l. per Cent.</hi> in three Months, together with Satisfaction for his Improvements, before the Filing the Respon<g ref="char:EOLhyphen"/>dents Bill; and also an Allowance for the Money he paid Sir <hi>John</hi> at the Value he paid it; all which the Master was to Ascertain.</p>
+               <p>From which Decree Mr. <hi>Mason</hi> hath brought an Appeal, insisting, That it is Erroneous, for that he is a Purchaser under the Decree of the Court, which is Signed and Inrolled.</p>
+            </div>
+            <div type="part">
+               <head>Which Decree the Respondent is Advised is Agreeable to Equity.</head>
+               <list>
+                  <item>I. For that the Lands appeared by the Masters Report in the Cause between Sir <hi>John Parker</hi> and the Respondent to be worth 320 <hi>l.</hi> a year before the Troubles, and the Interest punctually paid till <hi>November</hi> 1688. and is now worth 450 <hi>l.</hi> a year; so that the Mortgaged Lands, is and was of much more Value than the Money due theron at the pretended Foreclosure.</item>
+                  <item>II. That the time given for Payment of the Money was far too short Considering the then Difficulties of raising Money, being little more than a year.</item>
+                  <item>III. And for that the Order of the 3d of <hi>April</hi> 1696. was procured by surprize on the Court, and without any Notice to the Respondent, <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the Appellant owns in his Answer.</item>
+                  <item>IV. That the Signing and Inrolling of the Decree wherein Sir <hi>John Parker</hi> was Plaintiff, cannot prejudice the Respondent, seeing the Order of the 11th of <hi>February</hi> for Enlarging the time to the 25th of <hi>March</hi> 1696. is not Inrolled to this day, but left out, as the Respondent conceives, on purpose by the Appellant, that the Order for Sale might not Appear; and had it appeared when the Order of the 3d of <hi>April</hi> was made, the then Lord Chancellor could not have Directed the said Assignment from the said Six Clerks to the Appellant without manifest Injustice, the Appellant having no Certificate from the Master that he had allowed the Appellant to be the best Purchaser, which ought to have been, and is always practised in like Cases.</item>
+                  <item>V. For that the Appellant cannot be Deemed a Purchaser under the Oder of the 3d of <hi>April</hi> 1696. having Purchased the Premisses long before on the 18th and 19th of <hi>February</hi> 1694. notwithstanding the False Affirmations of his Plea, and his ill Practices to Conceal the time and manner of his Purchase, which were great Inducements as the Respondent conceives, for pronouncing the Decree Appealed from.</item>
+                  <item>VI. That in case the Appellant should prevail, he will have the value of 7000 <hi>l.</hi> worth of Lands and upwards, (being the greatest part of the Respondents and his Families support) for 1945 <hi>l.</hi> 13 <hi>s.</hi> 7 <hi>d.</hi> ½ <hi>q.</hi> by the Respondents not paying the Money the 25th of <hi>March</hi> 1696. tho' it was ready and Tendred on the 9th of <hi>May</hi> following.</item>
+               </list>
+               <p>Wherefore the Respondent humbly hopes your Lordships will be pleased to Affirm the Decree Appealed from, and give him his Costs.</p>
+            </div>
+            <closer>
+               <signed>Tho. Filmer.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:189432:2"/>
+            <p>APPEAL from <hi>IRELAND.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Robert Mason,</hi> Appellant.</item>
+               <item>
+                  <hi>Thomas Nugent,</hi> commonly called Earl of <hi>Westmeath,</hi> Respondent.</item>
+            </list>
+            <p>
+               <hi>The Respondents CASE.</hi>
+            </p>
+            <p>To be Heard on Tuesday the 12th of <hi>March,</hi> 1699.</p>
+            <pb facs="tcp:189432:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
